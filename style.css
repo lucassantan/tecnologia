@@ -1,0 +1,16 @@
+@charset "UTF-8";
+* body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    padding: 10px;
+    width: 600px;
+    border-radius: 20%;
+    margin: 1%;
+    background-color: rgb(240, 206, 113);
+}
+
+h2#principal {
+    background-color: rgba(1, 156, 9, 0.781);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 110px;
+}
